@@ -1,0 +1,25 @@
+.scrollable-table-index {
+    overflow: auto;
+    max-height: 550px;
+}
+
+.sticky-md-top {
+    top: -6px !important;
+}
+
+.sticky-md-bottom {
+    bottom: -6px !important;
+}
+
+.scrollable-table-show {
+    overflow: auto;
+    max-height: 170px;
+    border: 1px solid #ccc;
+}
+.image-size-index{
+    width: 100px;
+    height: 150px;
+}
+.image-size-edit{
+    width: 200px;
+}
